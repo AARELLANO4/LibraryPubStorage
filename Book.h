@@ -1,13 +1,4 @@
-// Final Project Milestone 4 
-// Book Module
-// File	Book.h
-// Version 1.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/28/11		    Initial function prototyping
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
 
 #ifndef _SDDS_BOOK_H
 #define _SDDS_BOOK_H

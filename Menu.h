@@ -1,13 +1,4 @@
-// Final Project Milestone 4 
-// Date Module
-// File	Date.h
-// Version 2.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/11/15		    Preliminary Setup
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
 
 #ifndef SDDS_MENU_H
 #define SDDS_DATE_H

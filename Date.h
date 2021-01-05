@@ -1,13 +1,5 @@
-// Final Project Milestone 1 
-// Date Module
-// File	Date.h
-// Version 1.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/11/15		    Debugging
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
+
 #ifndef SDDS_DATE_H__
 #define SDDS_DATE_H__
 #include <iostream>

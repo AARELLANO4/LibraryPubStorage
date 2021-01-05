@@ -1,13 +1,5 @@
-// Final Project Milestone 1 
-// Date Module
-// File	Date.cpp
-// Version 2.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name						   Date                 Reason
-// Alexis Arellano             2019/11/15           Debugging
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <iomanip>
 #include <iostream>

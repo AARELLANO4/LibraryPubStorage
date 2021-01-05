@@ -1,13 +1,4 @@
-// Final Project Milestone 2 
-// ReadWritable Module
-// File	ReadWriteable.cpp
-// Version 1.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/11/19		    Debugging
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
 
 
 #include <iostream>

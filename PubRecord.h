@@ -1,15 +1,4 @@
-// Final Project Milestone 4 
-// PubRecord Module
-// File	PubRecord.h
-// Version 1.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/21/19		    Initialized prototypes
-// Alexis Arellano			   2019/22/19			Added init() prototype
-// Alexis Arellano			   2019/26/19			Added shelfNo() & virtual fct
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
 
 #ifndef _SDDS_PUBRECORD_H
 #define _SDDS_PUBRECORD_H

@@ -1,13 +1,4 @@
-// Final Project Milestone 4 
-// Magazine Module
-// File	Magazine.cpp
-// Version 1.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/27/11		    Initial function implementation
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>

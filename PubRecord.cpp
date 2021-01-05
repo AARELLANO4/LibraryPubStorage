@@ -1,16 +1,4 @@
-// Final Project Milestone 3 
-// PubRecord Module
-// File	PubRecord.cpp
-// Version 1.0
-// Author	Alexis Arellano
-// Revision History
-// -----------------------------------------------------------
-// Name                        Date                 Reason
-// Alexis Arellano             2019/21/19		    Initialized all functions in .h
-// ""						   2019/22/19			Need to update readShelfNo();
-// ""						   2019/22/19			Update readShelfNo(), add operator==
-// Alexis Arellano			   2019/26/19			Added shelfNo() & virtual fct
-/////////////////////////////////////////////////////////////////
+// Alexis Arellano November 28/2019
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
